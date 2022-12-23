@@ -1,6 +1,7 @@
-# proxy_list_telegram_bot
-![image](https://user-images.githubusercontent.com/120702706/209403741-1256237f-b567-48c8-86be-91255fb9dc21.png)
+# Proxy List Telegram Bot
 Telegram bot for parsing proxies from different sources
+![image](https://user-images.githubusercontent.com/120702706/209403741-1256237f-b567-48c8-86be-91255fb9dc21.png)
+
 https://t.me/proxylist_bot
 
 Made in December 2022
